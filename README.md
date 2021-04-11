@@ -1,2 +1,2 @@
 # Kodluyoruz Frontend Challenge 
-# Ödev 1 - Websitesi oluşturma
+# Ödev 1-2-3 - Sadece Html ile Websitesi oluşturma 
