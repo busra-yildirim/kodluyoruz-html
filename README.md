@@ -1,2 +1,4 @@
 # Kodluyoruz Frontend Challenge 
-# Ödev 1-2-3 -> Html ile Websitesi oluşturma 
+
+This repository contains four HTML example which developed by me for Kodluyoruz and Patika.Dev Frontend Challenge.
+
